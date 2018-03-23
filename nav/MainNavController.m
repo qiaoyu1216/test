@@ -40,5 +40,6 @@
 - (void)goBack {
     
     [self popViewControllerAnimated:YES];
+    NSLog(@"aa");
 }
 @end
